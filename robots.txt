@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.dominio-de-la-clinica.com/sitemap.xml
